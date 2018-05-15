@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\bin\Debug\CompoundInterestCalculator.exe.config
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\bin\Debug\CompoundInterestCalculator.exe
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\bin\Debug\CompoundInterestCalculator.pdb
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\obj\Debug\CompoundInterestCalculator.csprojResolveAssemblyReference.cache
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\obj\Debug\CompoundInterestCalculator.compoundInterestCalculatorForm.resources
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\obj\Debug\CompoundInterestCalculator.Properties.Resources.resources
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\obj\Debug\CompoundInterestCalculator.csproj.GenerateResource.Cache
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\obj\Debug\CompoundInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\obj\Debug\CompoundInterestCalculator.exe
+C:\Users\root\source\repos\CompoundInterestCalculator\CompoundInterestCalculator\obj\Debug\CompoundInterestCalculator.pdb
